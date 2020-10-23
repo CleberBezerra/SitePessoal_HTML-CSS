@@ -21,7 +21,8 @@ Tecnologias e ferramentas usadas:
     </head>
     <body>
         <header>
-            <img src="imagens/CRB002.jpg" alt="Foto do rosto de Cleber Bezerra com o escudo do Sport Club do Recife no canto superior direito">
+            <img src="imagens/CRB002.jpg" alt="Foto do rosto de Cleber Bezerra com o escudo do Sport Club do 
+            Recife no canto superior direito">
             <h1>Cleber Bezerra</h1>
         </header>
         <section>
