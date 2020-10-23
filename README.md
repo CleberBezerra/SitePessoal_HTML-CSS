@@ -41,8 +41,8 @@ Tecnologias e ferramentas usadas:
                 posuere fringilla. Duis in ultricies urna. Sed vehicula sed purus nec fermentum. Phasellus est est, 
                 accumsan ac semper ut, tincidunt in turpis. Maecenas non mollis quam, sed convallis nunc. Cras 
                 fermentum justo justo, at blandit sem euismod id. Quisque eget semper nibh. Maecenas eu ex nec ante 
-                rutrum euismod. <a href="mailto:cleber.bezerra@ymail.com" target="_blank">
-                    cleber.bezerra@ymail.com</a></p>
+                rutrum euismod. <a href="mailto:cleber@email.com" target="_blank">
+                    cleber@email.com</a></p>
         </article>
         <footer>
             <ul>
